@@ -7,46 +7,31 @@ This project demonstrates game development using Flutter, including physics, col
 
 ## 🎮 Gameplay
 
-* Tap the screen to make the bird jump
-
-* Avoid hitting the pipes
-
-* Score increases when you successfully pass obstacles
-
-* Game ends when the bird collides with a pipe or the ground
-
-* Restart option available after game over
+- Tap the screen to make the bird jump  
+- Avoid hitting the pipes  
+- Score increases when you successfully pass obstacles  
+- Game ends when the bird collides with a pipe or the ground  
+- Restart option available after game over  
 
 ## 📸 Screenshots
 
-![Game Start](game_start.jpg)
-
-![Gameplay](game_play.jpg)
-
-![Game Over](game_over.jpg)
+| Game Start | Gameplay | Game Over |
+|------------|----------|-----------|
+| <img src="game_start.jpg" width="250"/> | <img src="game_play.jpg" width="250"/> | <img src="game_over.jpg" width="250"/> |
 
 ## 🚀 Features
 
-* Built using Flutter
-
-* Powered by Flame Game Engine
-
-* Smooth sprite animations
-
-* Collision detection
-
-* Score tracking
-
-* Best score storage
-
-* Game restart functionality
-
-* Lightweight and optimized
+- Built using **Flutter**
+- Powered by **Flame Game Engine**
+- Smooth **sprite animations**
+- **Collision detection** system
+- Real-time **score tracking**
+- **Best score storage**
+- **Game restart functionality**
+- Lightweight and optimized for mobile devices
 
 ## 🛠️ Tech Stack
 
-* Flutter
-
-* Flame Engine
-
-* Dart
+- **Flutter**
+- **Flame Engine**
+- **Dart**
