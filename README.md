@@ -1,16 +1,52 @@
-# sky_hopper
+# 🐦 Sky Hopper – Flutter Flame Game
 
-A new Flutter project.
+A simple 2D arcade game built with Flutter using the Flame game engine.
+The player controls a bird that must fly through pipes without colliding. Each successful pass increases the score. The goal is to achieve the highest score possible.
 
-## Getting Started
+This project demonstrates game development using Flutter, including physics, collision detection, animations, and score management.
 
-This project is a starting point for a Flutter application.
+## 🎮 Gameplay
 
-A few resources to get you started if this is your first Flutter project:
+* Tap the screen to make the bird jump
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Avoid hitting the pipes
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Score increases when you successfully pass obstacles
+
+* Game ends when the bird collides with a pipe or the ground
+
+* Restart option available after game over
+
+## 📸 Screenshots
+
+![Game Start](game_start.jpg)
+
+![Gameplay](game_play.jpg)
+
+![Game Over](game_over.jpg)
+
+## 🚀 Features
+
+* Built using Flutter
+
+* Powered by Flame Game Engine
+
+* Smooth sprite animations
+
+* Collision detection
+
+* Score tracking
+
+* Best score storage
+
+* Game restart functionality
+
+* Lightweight and optimized
+
+## 🛠️ Tech Stack
+
+* Flutter
+
+* Flame Engine
+
+* Dart
